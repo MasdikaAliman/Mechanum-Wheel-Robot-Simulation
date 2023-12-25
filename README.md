@@ -1,5 +1,5 @@
 # Mechanum-Wheel-Robot-Simulation
-
+This Repo Contain Kinematic Mechanum, PID control and Fuzzy Logic 
 # PID Control 
   -- Controller.h
 # Fuzzy Logic 
